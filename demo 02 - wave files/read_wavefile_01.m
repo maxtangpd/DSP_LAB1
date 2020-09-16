@@ -4,7 +4,7 @@
 %% Load .wav file 
 
 clear
-[x, Fs] = audioread('cat01.wav');   % or use wavread
+[x, Fs] = audioread('test.wav');   % or use wavread
 
 whos
 
